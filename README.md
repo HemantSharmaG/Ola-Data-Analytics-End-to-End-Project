@@ -72,7 +72,7 @@
 
 
 
-###### All SQL queries and views are available inside the **/sql** folder.
+###### All SQL queries and views are available inside the **[sql](sql/)** folder.
 
 
 
@@ -111,5 +111,6 @@
 
 ###### 
 
-###### ➡️ Download Power BI Dashboard PDF
+###### ➡️ [Download Power BI Dashboard PDF](reports/ola_ride_analytics_dashboard_pdf.pdf)
+
 
